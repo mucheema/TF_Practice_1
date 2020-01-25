@@ -1,0 +1,3 @@
+--2020-01-19 21:18:29--  https://releases.hashicorp.com/terraform/0.12.7/terraform_0.12.7_linux_amd64.zip
+Resolving releases.hashicorp.com (releases.hashicorp.com)... failed: Name or service not known.
+wget: unable to resolve host address ‘releases.hashicorp.com’
